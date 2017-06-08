@@ -1,4 +1,8 @@
 
+#Practica
+#Ejercicio1: http://ec2-13-58-38-248.us-east-2.compute.amazonaws.com
+#Ejercicio2: 13.58.38.248
+
 # NodePop
 
 Api for the iOS/Android apps.
